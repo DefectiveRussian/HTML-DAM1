@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Ficha de un estudiante-->
+<centro>
+    <alumno id="25" grupo="1DAM">
+        <nombre>Laura</nombre>
+        <modulo>Lenguajes de marcas</modulo>
+        <nota>8</nota>
+    </alumno>
+</centro>
