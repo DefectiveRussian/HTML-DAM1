@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Datos del alumnado-->
+<centro>
+	<alumno id="25" grupo="1DAM" activo="si">
+		<nombre>Laura</nombre>
+		<modulo>Lenguajes de marcas</modulo>
+		<nota>8</nota>
+		<correo>laura@ejemplo.com</correo>
+		<telefono>600234567</telefono>
+	</alumno>
+	<alumno id="26" grupo="1DAM" activo="si">
+		<nombre>Marcos</nombre>
+		<modulo>Programación</modulo>
+		<nota>9</nota>
+		<telefono>600100200</telefono>
+	</alumno>
+	<resumen>Total: 2 alumnos</resumen>
+</centro>
+
+<!--
+	3.1 
+	En línea 4 faltaba poner "" al valor de "id".
+	En línea 5, <nombre> cerraba mal escrito.
+	En línea 7, <nota> usaba un carácter no permitido.
+	En línea 8 faltaba cerrar <correo>.
+	En línea 10, <alumno> tenía 2 atributos iguales con valores diferentes
+	En línea 12 faltaba el / al cerrar <modulo>.
+	En línea 13, <nota> cerraba mal escrito.
+	En línea 16, <resumen> estaba fuera de la raíz. 
+-->
+
+<!--
+	3.4
+	
+
+-->
