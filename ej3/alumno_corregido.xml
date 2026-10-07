@@ -4,7 +4,7 @@
 	<alumno id="25" grupo="1DAM" activo="si">
 		<nombre>Laura</nombre>
 		<modulo>Lenguajes de marcas</modulo>
-		<nota>8</nota>
+		<nota>8 &amp; 9</nota>
 		<correo>laura@ejemplo.com</correo>
 		<telefono>600234567</telefono>
 	</alumno>
@@ -21,7 +21,7 @@
 	3.1 
 	En línea 4 faltaba poner "" al valor de "id".
 	En línea 5, <nombre> cerraba mal escrito.
-	En línea 7, <nota> usaba un carácter no permitido.
+	En línea 7, <nota> usaba un carácter especial sin formarlo correctamente.
 	En línea 8 faltaba cerrar <correo>.
 	En línea 10, <alumno> tenía 2 atributos iguales con valores diferentes
 	En línea 12 faltaba el / al cerrar <modulo>.
@@ -31,6 +31,26 @@
 
 <!--
 	3.4
-	
-
+	Por que solo puede haber 1 elemento raiz y es <centro>
 -->
+
+<!--
+	3.5
+	El error sería escribir ciertos caractéres sin usar entidades de XML como <, >, &, " y ' . Un fallo de este tipo impidirá leer un XML.
+	No habría problema al escribir "sobresaliente" mientras no necesitemos un número exacto para calculaciones o una tabla/base de datos.
+-->
+
+<!--
+	3.6
+	Arreglado
+	<alumno id ="id">
+		<nombre>Inés</nombre>
+		<observacion>Nota &gt; 5 y &lt; 10; asistencia 90% &amp; puntualidad.</observacion>
+	</alumno>
+-->
+
+<!--
+	3.7
+	Porque el < significa el comienzo de una etiqueta y & significa el comienzo de una referencia a entidad. Aunque > se pueda escribir como tal, es recomendado usar su entidad &gt; .
+-->
+

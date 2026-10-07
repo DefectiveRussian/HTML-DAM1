@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<centro xmlns:alumno="http://ejemplo.com/alumnos"
+        xmlns:p="http://ejemplo.com/profesores">
+
+    <alumno:nombre>Laura</alumno:nombre>
+    <p:nombre>Ana</p:nombre>
+</centro>
+
+<!--
+    4.1
+    Porque usamos 2 documentos separados que tienen una etiqueta llamada de la misma forma pero con contenido diferente.
+-->
+
+<!--
+    4.2 
+    xmlns se refiere a XML Name Space y alumno nos dice cómo definirémos las etiquetas para usar el tipo de etiqueta necesario.
+-->
+
+<!--
+    4.3
+    No.
+-->
+
+<!--
+    4.4
+    Permanece igual el enlace de profesores.
+-->
