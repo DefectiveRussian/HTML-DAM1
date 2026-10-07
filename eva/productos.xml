@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<almacen>
+    <producto id="00">
+        <nombre>Laptop X</nombre>
+        <categoria>Ordenadores</categoria>
+        <marca>ASUS</marca>
+        <precio>4000</precio>
+        <moneda>EUR</moneda>
+        <stock>2</stock>
+        <bio>Un laptop horrible que cuesta un riñón por el estado del mercado</bio>
+        <disponibile>si</disponibile>
+    </producto>
+    <producto id="01">
+        <nombre></nombre>
+        <categoria></categoria>
+        <marca></marca>
+        <precio></precio>
+        <moneda></moneda>
+        <stock></stock>
+        <bio></bio>
+        <disponibile></disponibile>
+    </producto>
+        <producto id="02">
+        <nombre></nombre>
+        <categoria></categoria>
+        <marca></marca>
+        <precio></precio>
+        <moneda></moneda>
+        <stock></stock>
+        <bio></bio>
+        <disponibile></disponibile>
+    </producto>
+        <producto id="03">
+        <nombre></nombre>
+        <categoria></categoria>
+        <marca></marca>
+        <precio></precio>
+        <moneda></moneda>
+        <stock></stock>
+        <bio></bio>
+        <disponibile></disponibile>
+    </producto>
+    
+</almacen>
