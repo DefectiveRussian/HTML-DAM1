@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumno SYSTEM "alumno.dtd">
+<alumno><nombre>Laura</nombre><nota>8</nota></alumno>
+
+<!--
+    5.1
+    Declara que se usará un DTD
+-->
+
+<!--
+    5.2
+    Define la raíz.
+-->
+
+<!--
+    5.3
+    Define dónde esta el documento DTD que se usará.
+-->
+
+<!--
+    5.4
+    Define la estructura, elementos y atributos del XML.
+--> 
