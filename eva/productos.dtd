@@ -1,0 +1,11 @@
+<!ELEMENT almacen (producto+)>
+<!ELEMENT producto (nombre, categoria, marca, precio, moneda, stock, bio, disponible)>
+<!ATTLIST producto id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT moneda (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT bio (#PCDATA)>
+<!ELEMENT disponible (#PCDATA)>

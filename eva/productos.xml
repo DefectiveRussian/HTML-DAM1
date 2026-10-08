@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE almacen SYSTEM "productos.dtd">
 <almacen>
-	<producto id="00">
+	<producto id="p00">
 		<nombre>Laptop X</nombre>
 		<categoria>Ordenadores</categoria>
 		<marca>ASUS</marca>
@@ -8,9 +9,9 @@
 		<moneda>EUR</moneda>
 		<stock>2</stock>
 		<bio>Un laptop horrible que cuesta un riñón por el estado del mercado</bio>
-		<disponibile>si</disponibile>
+		<disponible>si</disponible>
 	</producto>
-	<producto id="01">
+	<producto id="p01">
 		<nombre>Secador de Pelo Pro Ultra</nombre>
 		<categoria>Electrodomésticos</categoria>
 		<marca>Baltika9</marca>
@@ -18,9 +19,9 @@
 		<moneda>EUR</moneda>
 		<stock>15</stock>
 		<bio>Secador de pelo indispensable para una casa</bio>
-		<disponibile>si</disponibile>
+		<disponible>si</disponible>
 	</producto>
-	<producto id="02">
+	<producto id="p02">
 		<nombre>Pantalla 4k Super</nombre>
 		<categoria>Periféricos</categoria>
 		<marca>ROG</marca>
@@ -28,9 +29,9 @@
 		<moneda>EUR</moneda>
 		<stock>5</stock>
 		<bio>Pantalla de 144hz para videojuegos</bio>
-		<disponibile>si</disponibile>
+		<disponible>si</disponible>
 	</producto>
-		<producto id="03">
+		<producto id="p03">
 		<nombre>Ratón &amp; Teclado combo</nombre>
 		<categoria>Periféricos</categoria>
 		<marca>Razor</marca>
@@ -38,6 +39,6 @@
 		<moneda>EUR</moneda>
 		<stock>100</stock>
 		<bio>Pack con un ratón mediocre y teclado malo</bio>
-		<disponibile>si</disponibile>
+		<disponible>si</disponible>
 	</producto>   
 </almacen>
