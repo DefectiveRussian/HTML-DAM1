@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fabricantes>
+	<fabricante id="100">
+		<nombre></nombre>
+		<pais></pais>
+		<ciudad></ciudad>
+		<web></web>
+		<email></email>
+		<tfn></tfn>
+	</fabricante>
+	<fabricante id="100">
+		<nombre></nombre>
+		<pais></pais>
+		<ciudad></ciudad>
+		<web></web>
+		<email></email>
+		<tfn></tfn>
+	</fabricante>
+	<fabricante id="100">
+		<nombre></nombre>
+		<pais></pais>
+		<ciudad></ciudad>
+		<web></web>
+		<email></email>
+		<tfn></tfn>
+	</fabricante>
+</fabricantes>
