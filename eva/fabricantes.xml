@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fabricantes>
 	<fabricante id="100">
-		<nombre></nombre>
-		<pais></pais>
-		<ciudad></ciudad>
-		<web></web>
-		<email></email>
-		<tfn></tfn>
+		<nombre>Fabrika 120</nombre>
+		<pais>Rusia</pais>
+		<ciudad>Magnitogorsk</ciudad>
+		<web>fab120.ru</web>
+		<email>fabrikapochta@mail.ru</email>
+		<tfn>71112223333</tfn>
 	</fabricante>
-	<fabricante id="100">
-		<nombre></nombre>
-		<pais></pais>
-		<ciudad></ciudad>
-		<web></web>
-		<email></email>
-		<tfn></tfn>
+	<fabricante id="101">
+		<nombre>General Things</nombre>
+		<pais>Estados Unidos</pais>
+		<ciudad>Dunkirk</ciudad>
+		<web>wemakethings.com</web>
+		<email>genstuff@proton.mail</email>
+		<tfn>16241112222</tfn>
 	</fabricante>
-	<fabricante id="100">
-		<nombre></nombre>
-		<pais></pais>
-		<ciudad></ciudad>
-		<web></web>
-		<email></email>
-		<tfn></tfn>
+	<fabricante id="102">
+		<nombre>伟大领袖的工厂 (Glorious Leader Factory)</nombre>
+		<pais>China</pais>
+		<ciudad>连州市 (Lianzhou)</ciudad>
+		<web>lianfactory.cn</web>
+		<email>lianfactory@qq.com</email>
+		<tfn>8613811112222</tfn>
 	</fabricante>
 </fabricantes>
