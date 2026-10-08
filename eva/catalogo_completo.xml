@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+	<producto id="00" fabid="101">
+		<pnombre>Laptop X</pnombre>
+		<categoria>Ordenadores</categoria>
+		<marca>ASUS</marca>
+		<precio>4000</precio>
+		<moneda>EUR</moneda>
+		<stock>2</stock>
+		<bio>Un laptop horrible que cuesta un riñón por el estado del mercado</bio>
+		<fabricante id="101">
+			<nombre>General Things</nombre>
+			<pais>Estados Unidos</pais>
+			<ciudad>Dunkirk</ciudad>
+			<web>wemakethings.com</web>
+			<email>genstuff@proton.mail</email>
+			<tfn>16241112222</tfn>
+		</fabricante>
+		<disponibile>si</disponibile>
+	</producto>
+	<producto id="01" fabid="100">
+		<pnombre>Secador de Pelo Pro Ultra</pnombre>
+		<categoria>Electrodomésticos</categoria>
+		<marca>Baltika9</marca>
+		<precio>25</precio>
+		<moneda>EUR</moneda>
+		<stock>15</stock>
+		<bio>Secador de pelo indispensable para una casa</bio>
+		<fabricante id="100">
+			<nombre>Fabrika 120</nombre>
+			<pais>Rusia</pais>
+			<ciudad>Magnitogorsk</ciudad>
+			<web>fab120.ru</web>
+			<email>fabrikapochta@mail.ru</email>
+			<tfn>71112223333</tfn>
+		</fabricante>
+		<disponibile>si</disponibile>
+	</producto>
+		<producto id="02" fabid="102">
+		<pnombre>Pantalla 4k Super</pnombre>
+		<categoria>Periféricos</categoria>
+		<marca>ROG</marca>
+		<precio>100</precio>
+		<moneda>EUR</moneda>
+		<stock>5</stock>
+		<bio>Pantalla de 144hz para videojuegos</bio>
+		<fabricante id="102">
+			<nombre>伟大领袖的工厂 (Glorious Leader Factory)</nombre>
+			<pais>China</pais>
+			<ciudad>连州市 (Lianzhou)</ciudad>
+			<web>lianfactory.cn</web>
+			<email>lianfactory@qq.com</email>
+			<tfn>8613811112222</tfn>
+		</fabricante>
+		<disponibile>si</disponibile>
+	</producto>
+		<producto id="03" fabid="101">
+		<pnombre>Ratón &amp; Teclado combo</pnombre>
+		<categoria>Periféricos</categoria>
+		<marca>Razor</marca>
+		<precio>79</precio>
+		<moneda>EUR</moneda>
+		<stock>100</stock>
+		<bio>Pack con un ratón mediocre y teclado malo</bio>
+		<fabricante id="101">
+			<nombre>General Things</nombre>
+			<pais>Estados Unidos</pais>
+			<ciudad>Dunkirk</ciudad>
+			<web>wemakethings.com</web>
+			<email>genstuff@proton.mail</email>
+			<tfn>16241112222</tfn>
+		</fabricante>
+		<disponibile>si</disponibile>
+	</producto> 
+</catalogo>
