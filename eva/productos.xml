@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <almacen>
-    <producto id="00">
-        <nombre>Laptop X</nombre>
-        <categoria>Ordenadores</categoria>
-        <marca>ASUS</marca>
-        <precio>4000</precio>
-        <moneda>EUR</moneda>
-        <stock>2</stock>
-        <bio>Un laptop horrible que cuesta un riñón por el estado del mercado</bio>
-        <disponibile>si</disponibile>
-    </producto>
-    <producto id="01">
-        <nombre>Secador de Pelo Pro Ultra</nombre>
-        <categoria>Electrodomésticos</categoria>
-        <marca>Baltika9</marca>
-        <precio>25</precio>
-        <moneda>EUR</moneda>
-        <stock>15</stock>
-        <bio>Secador de pelo indispensable para una casa</bio>
-        <disponibile>si</disponibile>
-    </producto>
-        <producto id="02">
-        <nombre>Pantalla 4k Super</nombre>
-        <categoria>Periféricos</categoria>
-        <marca>ROG</marca>
-        <precio>100</precio>
-        <moneda>EUR</moneda>
-        <stock>5</stock>
-        <bio>Pantalla de 144hz para videojuegos</bio>
-        <disponibile>si</disponibile>
-    </producto>
-        <producto id="03">
-        <nombre>Ratón &amp; Teclado combo</nombre>
-        <categoria>Periféricos</categoria>
-        <marca>Razor</marca>
-        <precio>79</precio>
-        <moneda>EUR</moneda>
-        <stock>100</stock>
-        <bio>Pack con un ratón mediocre y teclado malo</bio>
-        <disponibile>si</disponibile>
-    </producto>   
+	<producto id="00">
+		<nombre>Laptop X</nombre>
+		<categoria>Ordenadores</categoria>
+		<marca>ASUS</marca>
+		<precio>4000</precio>
+		<moneda>EUR</moneda>
+		<stock>2</stock>
+		<bio>Un laptop horrible que cuesta un riñón por el estado del mercado</bio>
+		<disponibile>si</disponibile>
+	</producto>
+	<producto id="01">
+		<nombre>Secador de Pelo Pro Ultra</nombre>
+		<categoria>Electrodomésticos</categoria>
+		<marca>Baltika9</marca>
+		<precio>25</precio>
+		<moneda>EUR</moneda>
+		<stock>15</stock>
+		<bio>Secador de pelo indispensable para una casa</bio>
+		<disponibile>si</disponibile>
+	</producto>
+		<producto id="02">
+		<nombre>Pantalla 4k Super</nombre>
+		<categoria>Periféricos</categoria>
+		<marca>ROG</marca>
+		<precio>100</precio>
+		<moneda>EUR</moneda>
+		<stock>5</stock>
+		<bio>Pantalla de 144hz para videojuegos</bio>
+		<disponibile>si</disponibile>
+	</producto>
+		<producto id="03">
+		<nombre>Ratón &amp; Teclado combo</nombre>
+		<categoria>Periféricos</categoria>
+		<marca>Razor</marca>
+		<precio>79</precio>
+		<moneda>EUR</moneda>
+		<stock>100</stock>
+		<bio>Pack con un ratón mediocre y teclado malo</bio>
+		<disponibile>si</disponibile>
+	</producto>   
 </almacen>
