@@ -11,34 +11,33 @@
         <disponibile>si</disponibile>
     </producto>
     <producto id="01">
-        <nombre></nombre>
-        <categoria></categoria>
-        <marca></marca>
-        <precio></precio>
-        <moneda></moneda>
-        <stock></stock>
-        <bio></bio>
-        <disponibile></disponibile>
+        <nombre>Secador de Pelo Pro Ultra</nombre>
+        <categoria>Electrodomésticos</categoria>
+        <marca>Baltika9</marca>
+        <precio>25</precio>
+        <moneda>EUR</moneda>
+        <stock>15</stock>
+        <bio>Secador de pelo indispensable para una casa</bio>
+        <disponibile>si</disponibile>
     </producto>
         <producto id="02">
-        <nombre></nombre>
-        <categoria></categoria>
-        <marca></marca>
-        <precio></precio>
-        <moneda></moneda>
-        <stock></stock>
-        <bio></bio>
-        <disponibile></disponibile>
+        <nombre>Pantalla 4k Super</nombre>
+        <categoria>Periféricos</categoria>
+        <marca>ROG</marca>
+        <precio>100</precio>
+        <moneda>EUR</moneda>
+        <stock>5</stock>
+        <bio>Pantalla de 144hz para videojuegos</bio>
+        <disponibile>si</disponibile>
     </producto>
         <producto id="03">
-        <nombre></nombre>
-        <categoria></categoria>
-        <marca></marca>
-        <precio></precio>
-        <moneda></moneda>
-        <stock></stock>
-        <bio></bio>
-        <disponibile></disponibile>
-    </producto>
-    
+        <nombre>Ratón &amp; Teclado combo</nombre>
+        <categoria>Periféricos</categoria>
+        <marca>Razor</marca>
+        <precio>79</precio>
+        <moneda>EUR</moneda>
+        <stock>100</stock>
+        <bio>Pack con un ratón mediocre y teclado malo</bio>
+        <disponibile>si</disponibile>
+    </producto>   
 </almacen>
