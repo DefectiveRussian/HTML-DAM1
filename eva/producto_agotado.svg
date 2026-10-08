@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<svg xmlns="http://www.w3.org/2000/svg" 
+	 width="400" 
+	 height="200"> 
+
+	<rect 
+		x="10" 
+		y="10" 
+		width="380" 
+		height="180" 
+		fill="gold" 
+		stroke="black" 
+		stroke-width="3"/>
+	
+	<ellipse
+		rx="190" 
+		ry="90"
+		cx="200"
+		cy="100"
+		fill="purple"
+		stroke="black"
+		stroke-width="3"/>
+
+	<polygon
+		points="10,100 200,10 390,100 200,190"
+		fill="cyan"
+		stroke-width="3"
+		stroke="black"/>
+
+	<circle 
+		cx="200" 
+		cy="100"
+		r="20" 
+		fill="red"/> 
+
+	<text 
+		x="155" 
+		y="140" 
+		font-size="19" 
+		fill="black"> 
+		AGOTADO 
+	</text> 
+
+	<text 
+		x="150" 
+		y="75" 
+		font-size="19" 
+		fill="black"> 
+		PRODUCTO 
+	</text> 
+</svg> 
