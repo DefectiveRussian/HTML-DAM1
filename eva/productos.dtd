@@ -1,0 +1,21 @@
+<!ELEMENT fabricantes (fabricante+)>
+<!ELEMENT fabricante (nombre, pais, producto+, ciudad, web, email, tfn)>
+<!ATTLIST fabricante 
+            id ID #REQUIRED
+            pids CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT producto (pnombre, categoria, marca, precio, moneda, stock, bio, disponible)>
+<!ATTLIST producto id ID #REQUIRED>
+<!ELEMENT pnombre (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT moneda (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT bio (#PCDATA)>
+<!ELEMENT disponible (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT web (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT tfn (#PCDATA)>
