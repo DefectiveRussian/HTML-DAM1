@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE fabricantes SYSTEM "productos.dtd">
+<!DOCTYPE fabricantes SYSTEM "catalogo_completo.dtd">
 <fabricantes>
 	<fabricante id="f00" pids="p00, p01">
 		<nombre>General Things</nombre>
