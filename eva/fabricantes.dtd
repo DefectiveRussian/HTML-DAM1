@@ -1,0 +1,9 @@
+<!ELEMENT fabricantes (fabricante+)>
+<!ELEMENT fabricante (nombre, pais, ciudad, web, email, tfn)>
+<!ATTLIST fabricante id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT web (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT tfn (#PCDATA)>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fabricantes SYSTEM "fabricantes.dtd">
 <fabricantes>
-	<fabricante id="100">
+	<fabricante id="f00">
 		<nombre>Fabrika 120</nombre>
 		<pais>Rusia</pais>
 		<ciudad>Magnitogorsk</ciudad>
@@ -8,7 +9,7 @@
 		<email>fabrikapochta@mail.ru</email>
 		<tfn>71112223333</tfn>
 	</fabricante>
-	<fabricante id="101">
+	<fabricante id="f01">
 		<nombre>General Things</nombre>
 		<pais>Estados Unidos</pais>
 		<ciudad>Dunkirk</ciudad>
@@ -16,7 +17,7 @@
 		<email>genstuff@proton.mail</email>
 		<tfn>16241112222</tfn>
 	</fabricante>
-	<fabricante id="102">
+	<fabricante id="f02">
 		<nombre>伟大领袖的工厂 (Glorious Leader Factory)</nombre>
 		<pais>China</pais>
 		<ciudad>连州市 (Lianzhou)</ciudad>
