@@ -1,0 +1,4 @@
+    DTD PREGUNTA FINAL
+Si el documento XML esta bien formado significa que el sintaxis de XML esta bien, 
+sin tener en cuenta las reglas de estructura que se pueden añadir con un DTD.
+Puede tener sintaxis bien formado pero no válido respecto a su DTD.
